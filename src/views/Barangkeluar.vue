@@ -13,6 +13,7 @@
           </option>
         </select>
       </div>
+      
 
       <div class="form-group">
         <label for="jumlah">Jumlah Keluar:</label>
