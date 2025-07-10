@@ -3,7 +3,6 @@
     <h1>Daftar Barang</h1>
     <hr />
     <button class="btn-primary" @click="tambahBarang">+ Tambah Barang</button>
-
     <table class="barang-table">
       <thead>
         <tr>
