@@ -1,0 +1,86 @@
+{
+  "barang": [
+    {
+      "id": "1",
+      "nama": "Indomie Goreng",
+      "stok": 120,
+      "harga": 3500
+    },
+    {
+      "id": "2",
+      "nama": "Air Mineral",
+      "stok": 84,
+      "harga": 2500
+    },
+    {
+      "id": "3",
+      "nama": "Sabun Mandi",
+      "stok": 35,
+      "harga": 6000
+    },
+    {
+      "id": "4",
+      "nama": "cup plastik",
+      "stok": 4,
+      "harga": 10000
+    }
+  ],
+  "barangmasuk": [
+    {
+      "barangId": 1,
+      "namaBarang": "Indomie Goreng",
+      "jumlah": 50,
+      "tanggal": "2025-07-04T14:10:00.000Z",
+      "id": "6136"
+    },
+    {
+      "id": "3f0d",
+      "barangId": "2",
+      "namaBarang": "Air Mineral",
+      "jumlah": 3,
+      "tanggal": "2025-07-04T14:38:43.313Z"
+    },
+    {
+      "id": "bbe0",
+      "barangId": "2",
+      "namaBarang": "jujur",
+      "jumlah": 3,
+      "tanggal": "2025-07-04T15:01:55.717Z"
+    }
+  ],
+  "barangKeluar": [
+    {
+      "id": "7e07",
+      "barangId": "3",
+      "namaBarang": "Sabun Mandi",
+      "jumlah": 3,
+      "keterangan": "rusak",
+      "tanggal": "2025-07-04T14:44:08.695Z"
+    },
+    {
+      "id": "96ba",
+      "barangId": "4",
+      "namaBarang": "jujur",
+      "jumlah": 2,
+      "keterangan": "rusak",
+      "tanggal": "2025-07-04T15:02:28.601Z"
+    },
+    {
+      "id": "5654",
+      "barangId": null,
+      "namaBarang": "jujur",
+      "jumlah": 4,
+      "keterangan": "rusak",
+      "tanggal": "2025-07-04T15:08:14.103Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "nama": "Admin Toko"
+    }
+  ],
+  "transaksi": []
+}
